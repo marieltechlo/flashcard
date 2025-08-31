@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#a6c316"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/flashcard_question"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="@string/question1"
+        android:textSize="40sp"
+        android:textColor="@color/black"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/flashcard_answer"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="@string/barack_obama"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:visibility="invisible"/>
+
+
+</RelativeLayout>
