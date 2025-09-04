@@ -7,7 +7,7 @@ This is a flashcard app that show a question a return an answer when the questio
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="walkthrough" width=200><br>
 
 
 ## Required
